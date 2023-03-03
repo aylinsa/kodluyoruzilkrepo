@@ -24,3 +24,5 @@ Pull requestler kabul edilir. Buyuk degisiklikler icin , lutfen once neyi degist
 ## License 
 [MIT](https://choosealicense.com/licenses/mit/)
 
+![KodluyoruzProjeResmi](https://raw.githubusercontent.com/Kodluyoruz/taskforce/git/git/markdown-nedir-nasil-kullaniriz-/figures/kodluyoruz_logo.jpg)
+
