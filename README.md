@@ -13,6 +13,8 @@ Oncelikle projeyi clonelayin.
  Projeyi cloneladiktan sonra Visual Studio Code programinda aciniz. 
   
 Linux icin:
+<!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
+
 ``` 
 cd kodluyoruzilkrepo
 code . 
